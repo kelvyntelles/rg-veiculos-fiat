@@ -1,0 +1,9 @@
+.rede_social {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.nav_pagina:hover {
+    text-decoration: underline red 2px;
+}
